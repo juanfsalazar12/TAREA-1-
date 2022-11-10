@@ -61,7 +61,7 @@ CAPITULO 1
 
 4. Exprese cada uno de los números siguientes en notación científica:
 
-![EJERCICIO 2_S11](https://user-images.githubusercontent.com/116821649/201128152-d8d34a50-3e5b-467f-afb1-065ee9b370fe.jpg)
+![EJERCICIO 2_S1](https://user-images.githubusercontent.com/116821649/201160276-7041e302-2c86-4692-8dba-8e7195647de0.jpg)
 
 6. Exprese cada uno de los números siguientes como un número decimal regular:
 
@@ -69,79 +69,145 @@ CAPITULO 1
 
 8. Exprese cada número de los siguientes como un número decimal regular:
 
-![EJERCICIO 4_S11](https://user-images.githubusercontent.com/116821649/201130043-6ad260db-9599-4629-ba72-63a7272f59f5.jpg)
+![EJERCICIO 4_S1](https://user-images.githubusercontent.com/116821649/201160469-99067987-f7e3-41ff-8093-42b9ba7714f9.jpg)
 
 10. Efectúe las siguientes sustracciones:
 
 ![EJERCICIO 5_S11](https://user-images.githubusercontent.com/116821649/201132231-d7f6df18-5dbf-4047-8910-f5795b4f42ac.jpg)
 
-![EJERCICIO 6_S1](https://user-images.githubusercontent.com/116821649/200988105-493f0c6c-e097-4ee6-9ccb-83d99295449c.jpg)
+12. Realice las siguientes divisiones:
 
-![EJERCICIO 7_S1](https://user-images.githubusercontent.com/116821649/200988131-c67b0f9c-2c49-4d1b-8f76-73ca82f89827.jpg)
+![EJERCICIO 6_S1](https://user-images.githubusercontent.com/116821649/201159713-9f1ca554-66ce-4533-9689-78e1cb5a03a8.jpg)
 
-![EJERCICIO 8_S1](https://user-images.githubusercontent.com/116821649/200988167-4123d8e2-e530-4a18-a6ca-39b42752c961.jpg)
+14. Exprese cada número en notación de ingeniería:
 
-![EJERCICIO 9_S1](https://user-images.githubusercontent.com/116821649/200988195-42fa42c2-278d-4501-9cc2-df8075f7e359.jpg)
+![EJERCICIO 7_S1](https://user-images.githubusercontent.com/116821649/201159886-fd15c8d0-0c27-419c-80ce-72de0e39838b.jpg)
 
-![EJERCICIO 10_S1](https://user-images.githubusercontent.com/116821649/200988216-ce0aed95-1718-4f31-8409-5b91ce5e6929.jpg)
+16. Exprese cada número en notación de ingeniería:
 
-![EJERCICIO 11_S1](https://user-images.githubusercontent.com/116821649/200988242-33f562ae-d356-41a2-80a6-cd88c01ae1d3.jpg)
+![EJERCICIO 8_S1](https://user-images.githubusercontent.com/116821649/201160060-ed1e9fd7-f80b-45ae-a60c-b05900a7b0ea.jpg)
 
-![EJERCICIO 12_S1](https://user-images.githubusercontent.com/116821649/200988262-de3e2f43-b583-44c3-9da8-a07986403d9d.jpg)
+18. Multiplique los números siguientes y exprese cada resultado en notación de ingeniería:
 
-![EJERCICIO 13_S1](https://user-images.githubusercontent.com/116821649/200988284-2f37a0bf-e96c-4a59-b416-9842a5ba406c.jpg)
+![EJERCICIO 9_S1](https://user-images.githubusercontent.com/116821649/201160903-76146d65-a5ed-4764-a7f7-3486ab7a0b70.jpg)
 
-![EJERCICIO 14_S1](https://user-images.githubusercontent.com/116821649/200988301-264b3562-5b38-42be-9f1e-bcd1d96afa16.jpg)
+20. Exprese cada número del problema 13 en Ohms por medio de un prefijo métrico.
 
-![EJERCICIO 15_S1](https://user-images.githubusercontent.com/116821649/200988344-786f756a-64b9-43aa-a1ab-086e7e29c166.jpg)
+![EJERCICIO 10_S1](https://user-images.githubusercontent.com/116821649/201161090-88cdc8d6-2f84-44b2-9980-4f54f8080d72.jpg)
+
+22. Exprese cada uno de los siguientes números como una cantidad precedida por un prefijo métrico:
+
+![EJERCICIO 11_S1](https://user-images.githubusercontent.com/116821649/201162739-c7c1c14a-d29a-43a1-8ca8-e45654956417.jpg)
+
+24. Exprese cada una de las cantidades siguientes por medio de prefijos métricos:
+
+![EJERCICIO 12_S1](https://user-images.githubusercontent.com/116821649/201163019-c96c0941-b109-4bb1-918a-0340b4712555.jpg)
+
+26. Exprese cada cantidad en notación de ingeniería:
+
+![EJERCICIO 13_S1](https://user-images.githubusercontent.com/116821649/201163265-f28731c6-ba0f-4bfd-b519-18528b46e5d1.jpg)
+
+28. Determine lo siguiente:
+
+![EJERCICIO 14_S1](https://user-images.githubusercontent.com/116821649/201163464-f020775d-c686-4b5f-a31e-0e1ee79980a3.jpg)
+
+30. Realice las siguientes operaciones:
+
+![EJERCICIO 15_S1](https://user-images.githubusercontent.com/116821649/201163757-9d78c960-e388-4766-82fa-24e37a505417.jpg)
 
 CAPITULO 2
 
-![EJERCICIO 1_S2](https://user-images.githubusercontent.com/116821649/200988463-9bcc49fd-2caf-4682-807a-e419b0bc0d79.jpg)
+2. ¿Cuál es la carga en Coulombs del núcleo de un átomo de cloro?
 
-![EJERCICIO 2_S2](https://user-images.githubusercontent.com/116821649/200988486-3558eaef-ddf2-44a2-9bbf-87144cd04fdf.jpg)
+![EJERCICIO 1_S2](https://user-images.githubusercontent.com/116821649/201164565-662b0dd8-fced-48d7-a549-766664854247.jpg)
 
-![EJERCICIO 3_S2](https://user-images.githubusercontent.com/116821649/200988506-03950b12-7b20-4c89-924f-e47d7f730f82.jpg)
+4. ¿Cuántos electrones se requieren para producir 80 mC (microcoulombs) de carga?
 
-![EJERCICIO 4_S2](https://user-images.githubusercontent.com/116821649/200988569-4ceefed1-870f-497b-b84b-db4ac9ee36cd.jpg)
+![EJERCICIO 2_S2](https://user-images.githubusercontent.com/116821649/201164775-fe83502f-6328-4d29-bde3-fb627e4fedb3.jpg)
 
-![EJERCICIO 5_S2](https://user-images.githubusercontent.com/116821649/200988616-b02e3394-8d5c-4c56-87fd-f9c7e4abf6ad.jpg)
+6. Se utilizan quinientos Joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
 
-![EJERCICIO 6_S2](https://user-images.githubusercontent.com/116821649/200988647-4157c3db-c5af-4c66-baa9-dcd365ad7b06.jpg)
+![EJERCICIO 3_S2](https://user-images.githubusercontent.com/116821649/201164936-97429dc8-0825-40f6-b4d7-55b6fefd5c02.jpg)
 
-![EJERCICIO 7_S2](https://user-images.githubusercontent.com/116821649/200988670-e5021288-1c0b-4620-814e-28576419f3e6.jpg)
+8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
 
-![EJERCICIO 8_S2](https://user-images.githubusercontent.com/116821649/200988903-fb2aded0-fe16-4584-8d1c-4516deb05f09.jpg)
+![EJERCICIO 4_S2](https://user-images.githubusercontent.com/116821649/201165130-6508b3b5-48c7-4321-b784-4af498a2bbcc.jpg)
 
-![EJERCICIO 9_S2](https://user-images.githubusercontent.com/116821649/200989049-ce7795b3-3427-4b60-be7c-2966673c206d.jpg)
+10. Determine la corriente en cada uno de los siguientes casos:
 
-![EJERCICIO 10_S2](https://user-images.githubusercontent.com/116821649/200989084-28d9b6e5-bdff-4742-a8b8-37bcdab2315f.jpg)
+![EJERCICIO 5_S2](https://user-images.githubusercontent.com/116821649/201165276-8d286380-7518-43fe-aa05-26c86c1e40c8.jpg)
 
-![EJERCICIO 11_S2](https://user-images.githubusercontent.com/116821649/200989125-8054cabd-2516-4b65-ad1e-c6572b156754.jpg)
+12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
 
-![EJERCICIO 12_S2](https://user-images.githubusercontent.com/116821649/200989151-9c80bf51-73eb-41d9-986f-e3e52ccdc31a.jpg)
+![EJERCICIO 6_S2](https://user-images.githubusercontent.com/116821649/201165411-95a240c0-e42f-4e2e-9575-e25f66a0e420.jpg)
 
-![EJERCICIO 13_S2](https://user-images.githubusercontent.com/116821649/200989185-78a79b49-d69d-4216-a512-2d54b038d6aa.jpg)
+14. 5.74 * 10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
 
-![EJERCICIO 14_S2](https://user-images.githubusercontent.com/116821649/200989210-d8f70f32-4f22-4f12-a3be-f002c2c58b66.jpg)
+![EJERCICIO 7_S2](https://user-images.githubusercontent.com/116821649/201165700-ebfc0ad6-dcd3-4406-8af9-d78722f2b118.jpg)
 
-![EJERCICIO 15_S2](https://user-images.githubusercontent.com/116821649/200989241-3c1084e8-ed12-41e7-b9c9-24401c0165eb.jpg)
+16. Encuentre la resistencia correspondiente a las siguientes conductancias:
 
-![EJERCICIO 16_S2](https://user-images.githubusercontent.com/116821649/200992652-9f65599d-8081-4019-b065-998f2ee2cbd3.jpg)
+![EJERCICIO 8_S2](https://user-images.githubusercontent.com/116821649/201166305-5a196f49-fdb6-4890-89f8-d25c097623ce.jpg)
 
-![EJERCICIO 17_S2](https://user-images.githubusercontent.com/116821649/200992668-a14249dc-d732-467b-9933-dea2f5d5cb61.jpg)
+18. ¿En qué principio se basan los generadores eléctricos?
 
-![EJERCICIO 18_S2](https://user-images.githubusercontent.com/116821649/200992681-f63d5bcd-0693-495a-9ce4-be0074b55ca8.jpg)
+![EJERCICIO 9_S2](https://user-images.githubusercontent.com/116821649/201167005-58938df6-9fa1-41ad-ac3f-0789d7f441f7.jpg)
 
-![EJERCICIO 19_S2](https://user-images.githubusercontent.com/116821649/200992711-7b3b2c13-3d71-42e3-8377-8cad8132677c.jpg)
+20. Cierta fuente de corriente proporciona 100 mA a 1 kΩ de carga. Si la resistencia disminuye a 500 Ω, ¿Cuál es la corriente en la carga?
 
-![EJERCICIO 20_S2](https://user-images.githubusercontent.com/116821649/200992734-9501c800-5877-490d-9e99-effb11faa3ba.jpg)
+![EJERCICIO 10_S2](https://user-images.githubusercontent.com/116821649/201167230-055ad456-671a-4731-9256-b60d3b841bee.jpg)
 
-![EJERCICIO 21_S2](https://user-images.githubusercontent.com/116821649/200992757-64858254-1007-4632-b903-f47729938c26.jpg)
+22. Encuentre las resistencias mínima y máxima dentro de los límites de tolerancia para cada resistor del problema 21.
 
-![EJERCICIO 22_S2](https://user-images.githubusercontent.com/116821649/200992787-e2a242ce-69e7-4f7c-90ef-33360c44a06e.jpg)
+![EJERCICIO 11_S2](https://user-images.githubusercontent.com/116821649/201167373-cb036aa5-a127-4219-9933-015c34a8e84d.jpg)
 
-![EJERCICIO 23_S2](https://user-images.githubusercontent.com/116821649/200992803-66b1f108-8f79-4d10-8878-fd1833548823.jpg)
+24. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 4 bandas:
+
+![EJERCICIO 12_S2](https://user-images.githubusercontent.com/116821649/201167526-043af0c8-a4c0-40be-93a4-49c607418c88.jpg)
+
+26. Determine la resistencia y la tolerancia de cada uno de los siguientes resistores de 5 bandas:
+
+![EJERCICIO 13_S2](https://user-images.githubusercontent.com/116821649/201167746-0c9b4068-160c-4b88-8ee1-6a4787fbee09.jpg)
+
+28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000 Ω, ¿Cuál es la resistencia entre cada terminal y el contacto ajustable?
+
+![EJERCICIO 14_S2](https://user-images.githubusercontent.com/116821649/201167938-0ed6bb74-8146-489d-b3f4-669447ca1f17.jpg)
+
+30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
+
+![EJERCICIO 15_S2](https://user-images.githubusercontent.com/116821649/201168147-522ee964-752b-4db6-9f47-895e0073822d.jpg)
+
+32. Con el interruptor en una u otra posición, trace de nuevo el circuito de la figura 2-69(d) con un fusible conectado para proteger el circuito contra corriente excesiva.
+
+![EJERCICIO 16_S2](https://user-images.githubusercontent.com/116821649/201168524-193fecc2-cc8e-43ee-b18a-26a65ab656a8.jpg)
+
+34. ¿A través de que resistor de la figura 2-70 siempre hay corriente, sin importar la posición de los interruptores?
+
+![EJERCICIO 17_S2](https://user-images.githubusercontent.com/116821649/201168682-a8716c2b-c2a9-447f-8301-870507ac56cb.jpg)
+
+36. Las diferentes secciones de un sistema estereofónico están representadas por los bloques que aparecen en la figura 2-71. Muestre cómo se puede utilizar un solo interruptor para conectar el fonógrafo, el reproductor de discos compactos, la casetera, el sintonizador de AM, o el sintonizador de FM al amplificador mediante una sola perilla de control. En un momento dado, solamente una sección puede ser conectada al amplificador.
+
+![EJERCICIO 18_S2](https://user-images.githubusercontent.com/116821649/201168881-868c1414-f083-43fb-9c69-63e858c3e7fc.jpg)
+
+38. Explique cómo mediría la resistencia de R2 en la figura 2-72.
+
+![EJERCICIO 19_S2](https://user-images.githubusercontent.com/116821649/201169086-139bb2f9-d802-4ad4-8cd1-ae2a3353a1a7.jpg)
+
+40. En la figura 2-73, indique cómo se conecta un amperímetro para medir la corriente que sale de la fuente de voltaje sin importar la posición del interruptor.
+
+![EJERCICIO 20_S2](https://user-images.githubusercontent.com/116821649/201169291-153e7e91-7f63-471f-a733-3d951e77d750.jpg)
+
+42. Muestre la colocación apropiada de los voltímetros para medir el voltaje a través de cada resistor presente en la figura 2-70.
+
+![EJERCICIO 21_S2](https://user-images.githubusercontent.com/116821649/201169506-7d14ff69-736f-4c24-aac2-405a4f7e2fc5.jpg)
+
+44. ¿Cuánta resistencia está midiendo el Ohmmetro de la figura 2-75?
+
+![EJERCICIO 22_S2](https://user-images.githubusercontent.com/116821649/201169687-6babc659-2e12-4ecf-a4a2-1226ec177f21.jpg)
+
+46. ¿Cuál es la resolución máxima de un multímetro digital de 4 1/2 dígitos?
+
+![EJERCICIO 23_S2](https://user-images.githubusercontent.com/116821649/201169878-8295d039-d7a3-4a46-8e9a-732c0a3c29c7.jpg)
 
 VIDEO EXPLICATIVO 
 
