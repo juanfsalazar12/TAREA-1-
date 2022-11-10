@@ -19,9 +19,9 @@ Objetivos Especificos
 
 1. Adquirir los conocimientos necesarios para saber que formula o procedimiento usar para dar solucion a los problemas descritos en el libro de Floyd.
 
-2. Resolver los diferentes jercicios que plantea el libro de Floyd.
+2. Resolver los diferentes ejercicios que plantea el libro de Floyd.
 
-3. Analizar e interpretar los diversos concept del capitulo 1 y 2 del libro de Floyd.
+3. Analizar e interpretar los diversos conceptos del capitulo 1 y 2 del libro de Floyd.
 
 Marco Teorico 
 
@@ -139,9 +139,9 @@ https://drive.google.com/file/d/1ORFJ6wR-ZldCjAuPX-S33BXNxR8OjXEh/view?usp=share
 
 CONCLUSIONES 
 
-1. En conclusión, se puede decir que es muy importante particar los diversos ejercicios que tiene el libro de Floyd, ya que, mediante sto se puede hacer habil al momento de realizar un rasolución.
+1. En conclusión, se puede decir que es muy importante practicar los diversos ejercicios que tiene el libro de Floyd, ya que, mediante esto se puede hacer habil al momento de realizar un resolución.
 
-2. Tambien  es importante resaltar que mediante la lectura de este libro se adqui mucho conocimiento de conceptos basicos para nuestra vida profesional.
+2. Tambien  es importante resaltar que mediante la lectura del libro de Floyd se adquiere el conocimiento necesario sobre los conceptos basicos que se utilizaran en nuestra vida profesional.
 
 BIBLIOGRAFÍA 
 
