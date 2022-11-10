@@ -55,15 +55,25 @@ Resolucion de ejercicios del libro de Floyd
 
 CAPITULO 1 
 
-![EJERCICIO 1_S1](https://user-images.githubusercontent.com/116821649/200987419-21f8e805-0c4e-458e-9390-1a25dbf6bc7c.jpg)
+2. Exprese cada número fraccionario en notación científica:
 
-![EJERCICIO 2_S1](https://user-images.githubusercontent.com/116821649/200987779-c70a5d2d-ae59-4fac-b0cc-5dd366a59b75.jpg)
+![EJERCICIO 1_S11](https://user-images.githubusercontent.com/116821649/201126982-180e5440-92cb-4261-9e63-04eec85ef61b.jpg)
 
-![EJERCICIO 3_S1](https://user-images.githubusercontent.com/116821649/200987821-6c077a68-e607-415f-aa8c-91a0a712412c.jpg)
+4. Exprese cada uno de los números siguientes en notación científica:
 
-![EJERCICIO 4_S1](https://user-images.githubusercontent.com/116821649/200987854-227bab08-2bbd-4330-8211-dd151aecc649.jpg)
+![EJERCICIO 2_S11](https://user-images.githubusercontent.com/116821649/201128152-d8d34a50-3e5b-467f-afb1-065ee9b370fe.jpg)
 
-![EJERCICIO 5_S1](https://user-images.githubusercontent.com/116821649/200987875-c985ebcf-e081-4d3d-8c2b-2275ccbe5063.jpg)
+6. Exprese cada uno de los números siguientes como un número decimal regular:
+
+![EJERCICIO 3_S11](https://user-images.githubusercontent.com/116821649/201129383-4f851f01-bcfa-4c79-b4a6-7d3ffe8b566f.jpg)
+
+8. Exprese cada número de los siguientes como un número decimal regular:
+
+![EJERCICIO 4_S11](https://user-images.githubusercontent.com/116821649/201130043-6ad260db-9599-4629-ba72-63a7272f59f5.jpg)
+
+10. Efectúe las siguientes sustracciones:
+
+![EJERCICIO 5_S11](https://user-images.githubusercontent.com/116821649/201132231-d7f6df18-5dbf-4047-8910-f5795b4f42ac.jpg)
 
 ![EJERCICIO 6_S1](https://user-images.githubusercontent.com/116821649/200988105-493f0c6c-e097-4ee6-9ccb-83d99295449c.jpg)
 
